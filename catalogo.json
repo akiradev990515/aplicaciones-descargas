@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "applications": [
+    {
+      "id": "cuadre",
+      "name": "Cuadre",
+      "applicationId": "com.cuadre.app",
+      "platform": "android",
+      "manifestUrl": "https://raw.githubusercontent.com/akiradev990515/aplicaciones-descargas/main/apps/cuadre/actualizacion.json",
+      "releaseTagPrefix": "cuadre-v"
+    }
+  ]
+}

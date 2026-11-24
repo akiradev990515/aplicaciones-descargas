@@ -1,0 +1,17 @@
+# Los binarios se publican en Releases.
+*.apk
+*.aab
+
+# Credenciales y datos privados
+.env
+.env.*
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+keystore.properties
+*.sqlite
+*.sqlite-*
+.DS_Store
