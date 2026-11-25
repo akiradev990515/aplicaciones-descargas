@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "applicationId": "com.cuadre.app",
+  "versionName": "1.2.0",
+  "versionCode": 3,
+  "minSdk": 24,
+  "releaseTag": "cuadre-v1.2.0",
+  "downloadUrl": "https://github.com/akiradev990515/aplicaciones-descargas/releases/download/cuadre-v1.2.0/Cuadre-1.2.0.apk",
+  "sha256": "306ecabd940db71b9e7db01eeae0b1432e91359743e1911366215d71ca113f3e",
+  "notes": "Cuadre 1.2.0\n\n- PIN opcional en Ajustes → Seguridad, desactivado por defecto, con código de recuperación y bloqueo automático de todos los productos.\n- Aviso en Hoy desde siete días antes de vencer la licencia o la prueba, con acceso directo a activar o renovar.\n- Consulta manual de actualizaciones desde GitHub, con un canal exclusivo de Cuadre dentro del repositorio público de descargas.\n- Generación automática de la APK comercial firmada en GitHub Actions al actualizar main.\n\nLa contabilidad y la validación de licencias conservan su funcionamiento sin conexión. La publicación pública se realiza después de comprobar la actualización sobre las APK comerciales con datos y licencia activos.",
+  "commit": "95078989d8e348d7c952f3421bb9dbd19817cd6a"
+}
