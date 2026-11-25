@@ -8,7 +8,7 @@ Repositorio público de APK, novedades y manifiestos de actualización de las ap
 |---|---|---|
 | Cuadre | [Ver versiones de Cuadre](https://github.com/akiradev990515/aplicaciones-descargas/releases?q=cuadre-v) | `apps/cuadre/actualizacion.json` |
 
-Las versiones comerciales se incorporarán después de su revisión. El manifiesto de Cuadre se creará al publicar su primera versión en este repositorio.
+Cuadre ya está disponible para descargar. Su manifiesto indica la versión comercial vigente y el enlace de descarga correspondiente.
 
 ## Descargar e instalar
 
